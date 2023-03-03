@@ -1,0 +1,75 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+
+}
+header{
+    background-color:gray;
+    display: flex;
+    gap: 20px;
+    padding: 1%;
+}
+img{
+    width:200px;
+    border-radius: 25px;
+    height: 200px;
+}
+h1{
+    color: red;
+    padding: 1%;
+}
+section{
+   
+    padding: 2%;
+}
+
+.contact{
+margin: 1%;
+padding: 1%;
+display: flex;
+justify-content: center;
+align-items: center;
+gap:20px;
+}
+button{
+    color: black;
+    background-color: gray;
+    border: none;
+    padding: 1%;
+    text-align: center;
+    
+    border-radius: 6px;
+}
+.about{
+    margin: 1%;
+padding: 1%;
+display: flex;
+justify-content: center;
+align-items: center;
+gap:200px;
+text-align: center;
+}
+.resume{
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+   
+    gap:50px;
+
+}
+#lien{
+    color: blue;
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:gray;
+    color:black;
+    padding: 1%;
+}
